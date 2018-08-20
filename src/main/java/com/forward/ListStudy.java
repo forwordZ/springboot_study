@@ -13,5 +13,6 @@ public class ListStudy {
     public static void main(String[] args) {
         List list = new ArrayList();
         list.add("asdf");
+        System.out.println("aaaaa");
     }
 }
